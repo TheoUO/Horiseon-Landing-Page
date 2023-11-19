@@ -14,7 +14,7 @@
 
 For this project, the original codebase wasn't following accessibility standards, therefore, the site was not optimized for search engines. I was able to go through the source code to ensure that the HTML elements were semantic. I ensured that the elements followed a logical structure independent of styling and postioning. I also made sure that the image elements had alt attributes and that the heading attributes fell in sequential order. Lastly, I made sure the title element had a concise and descriptive title.
 
-![Site Langing Page](../images/horiseon.png)
+![Site Langing Page](.assets/images/horiseon.png)
 
 
 ## Code Refactor Example
